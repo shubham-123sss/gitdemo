@@ -10,6 +10,7 @@ public class Tc_001 {
 	
 	}
 	
-	
-	
+public void logtest(){	
+	System.out.println("test class login");
+}
 }
