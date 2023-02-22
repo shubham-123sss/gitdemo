@@ -8,10 +8,10 @@ public class Loginpage {
 	
 	}
 	
+	public void logintest() {
+	System.out.println("login test in page");
 	
-	
-	
-	
+	}
 	
 	
 }
